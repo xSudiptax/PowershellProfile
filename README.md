@@ -22,4 +22,7 @@ then type the following in powershell
 Set-ExecutionPolicy RemoteSigned
 type
 Y
-you are good to go
+you are good to go.
+
+In CMD it is fairly easy, just type
+prompt $g        
